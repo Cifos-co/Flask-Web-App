@@ -1,0 +1,5 @@
+# ignora carpetas sensibles
+document_templates
+
+#ignora bases de datos
+.db
